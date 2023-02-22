@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/002-traveling/chengdu/museum/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/002-traveling/chengdu/museum/"}
 ---
 
 > https://art.icity.ly/events/djkyi7j
