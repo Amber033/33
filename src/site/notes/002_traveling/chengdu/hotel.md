@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/002-traveling/chengdu/hotel/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/002-traveling/chengdu/hotel/"}
 ---
 
 > YIDOU一豆•boho米亚D/智能AI/4K投影/太古里/春熙/*其他房源点房东头像 来看看美团民宿这个房源 每日价格：¥228 整套房子 可住3人   http://dpurl.cn/Non4Ljwz
